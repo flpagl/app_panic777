@@ -1,0 +1,124 @@
+.elementor-919 .elementor-element.elementor-element-33d1c6a {
+    --display: flex;
+    --min-height: 90vh;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --margin-block-start: -4em;
+    --margin-block-end: 0em;
+    --margin-inline-start: 0em;
+    --margin-inline-end: 0em;
+    --padding-block-start: 5em;
+    --padding-block-end: 10em;
+    --padding-inline-start: 0em;
+    --padding-inline-end: 0em;
+}
+
+.elementor-919 .elementor-element.elementor-element-33d1c6a:not(.elementor-motion-effects-element-type-background), .elementor-919 .elementor-element.elementor-element-33d1c6a > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("");
+    background-position: top center;
+    background-size: cover;
+}
+
+.elementor-919 .elementor-element.elementor-element-33d1c6a, .elementor-919 .elementor-element.elementor-element-33d1c6a::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-919 .elementor-element.elementor-element-33d1c6a.e-con {
+    --align-self: center;
+}
+
+.elementor-919 .elementor-element.elementor-element-b023427 {
+    width: var( --container-widget-width, 450px );
+    max-width: 450px;
+    --container-widget-width: 450px;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-919 .elementor-element.elementor-element-b023427.elementor-element {
+    --align-self: center;
+}
+
+.elementor-919 .elementor-element.elementor-element-2a185cb > .elementor-widget-container {
+    margin: 0px 0px -5px 0px;
+    padding: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.6);
+}
+
+body.elementor-page-919:not(.elementor-motion-effects-element-type-background), body.elementor-page-919 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+@media(max-width: 1366px) {
+    .elementor-919 .elementor-element.elementor-element-33d1c6a {
+        --padding-block-start:5em;
+        --padding-block-end: 10em;
+        --padding-inline-start: 1em;
+        --padding-inline-end: 1em;
+    }
+}
+
+@media(max-width: 767px) {
+    .elementor-919 .elementor-element.elementor-element-33d1c6a:not(.elementor-motion-effects-element-type-background), .elementor-919 .elementor-element.elementor-element-33d1c6a > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+        background-image:url("");
+    }
+
+    .elementor-919 .elementor-element.elementor-element-33d1c6a {
+        --padding-block-start: 7em;
+        --padding-block-end: 7em;
+        --padding-inline-start: 1em;
+        --padding-inline-end: 1em;
+    }
+
+    .elementor-919 .elementor-element.elementor-element-b023427 {
+        z-index: 0;
+    }
+}
+
+/* Start custom CSS for html, class: .elementor-element-2a185cb */
+#iframe {
+    border-radius: 15px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-6a614cc */
+.noise {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.1;
+    background-image: url('');
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* End custom CSS */
+/* Start custom CSS */
+/*Scroll Bar*/
+body, html {
+    overflow-x: hidden !important;
+}
+
+body::-webkit-scrollbar {
+    width: 7px;
+}
+
+/*Cor do fundo*/
+body::-webkit-scrollbar-track {
+    background: #303030;
+}
+
+/*Cor da scroll bar*/
+body::-webkit-scrollbar-thumb {
+    background: #470703;
+}
+
+/* End custom CSS */
