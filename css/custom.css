@@ -1,0 +1,171 @@
+/* MOBILE */
+@media(max-width:768px) {
+
+
+    body {
+        
+       /* background-image: url('imagens/hackers.gif') !important; */
+        background-image: url('imagens/hackers.gif') ;
+       background-color: #1f1b24 !important;
+       /* backdrop-filter: brightness(0.1);
+       -webkit-backdrop-filter: brightness(0.1); */
+    }
+    
+
+    /* ==================== MENU ==================== */
+    .navbar-toggler {
+        font-size: 1rem;
+    }
+    .navbar {
+        padding-top: 0.3rem !important;
+        padding-bottom: 0.3rem !important;
+    }
+    .navbar-brand {
+        width: 50px;
+        margin-right: 0 !important;
+    }
+    .navbar-collapse {
+        display: flex;
+        justify-content: space-around;
+    }
+    .navbar-collapse .navbar-nav {
+        margin-right: 10px !important;
+        margin-bottom: 0 !important;
+        display: flex;
+        width: 50px;
+        flex-direction: row;
+    }
+    .navbar-collapse button {
+        margin: 0 5px !important;
+        font-size: 12px;
+    }
+    .navbar-nav {
+        display: flex;
+        flex-direction: row;
+    }
+    .navbar-nav .nav-item {
+        margin: 0 5px;
+    }
+
+
+    /* ==================== LISTAGEM JOGOS ==================== */
+    .jogos-disponiveis {
+        padding: 10px 20px;
+        margin: 10px 0;
+    }
+    .game-body .online {
+        border: 1px solid rgba(23, 219, 78, 1);
+        width: 86%;
+        margin: 0 auto;
+        padding: 2px 2px;
+        float: none;
+        background-color: none;
+    }
+    .game-footer {
+        margin-bottom: 6px;
+    }
+    .game-footer P {
+        margin: 8px 20px 5px;
+    }
+    .badge {
+        border-radius: 1rem !important;
+    }
+
+
+    /* ==================== TELA JOGO ==================== */
+    .box-link {
+        padding: 10px 20px;
+        margin: 10px 0;
+        font-size: 12px;
+    }
+    #iframeId {
+        margin-left: 0;
+    }
+
+
+    /* ==================== MINES ==================== */
+    .entradas .sinal {
+        font-size: 14px;
+        margin-top: 8px !important;
+        padding: 4px;
+        margin-bottom: -8px;
+        width: 50% !important;
+    }
+    .entradas .sinal .box-1 {
+        padding: 8px 20px;
+    }
+    .entradas .sinal:nth-child(1) {
+        padding-left: 8px;
+    }
+    .entradas .sinal:nth-child(2) {
+        padding-right: 8px;
+    }
+    .entradas .sinal:nth-child(3) {
+        padding-left: 8px;
+    }
+    .entradas .sinal:nth-child(4) {
+        padding-right: 8px;
+    }
+    .entradas .botao-penalty {
+        padding: 8px 0 5px 0;
+    }
+    .entradas .botao-penalty .btn-success {
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 14px;
+        margin-top: 6px;
+    }
+
+
+
+
+
+
+    /* ==================== AVIATOR ====================
+    .box-1-entrada {
+        padding: 10px 20px;
+    }
+    .box-entradas {
+        height: 110px;
+        font-size: 12px;
+    }
+    .entrada_confirmada, .entrada_analisada {
+        border-top: 1px solid #ffffff2e;
+        padding-top: 10px !important;
+    }
+    .btn-outline-warning {
+        font-size: 10px;
+    }
+    .entrada_horario {
+        margin: 2px 0 10px !important;
+        opacity: 0.2;
+        text-align: right;
+    }
+    .status-entrada {
+        font-size: 10px;
+    }
+    .box-link {
+        padding: 10px 20px;
+        margin: 10px 0;
+        font-size: 12px;
+    }
+    .btn-outline-warning {
+        color: #202024;
+        font-weight: 600;
+        text-transform: uppercase;
+        background-color: #ffc107;
+        padding: 0px 5px !important;
+        margin: 0 0 3px 5px;
+    }
+    #iframeId {
+        margin-left: 0;
+    }
+    */
+
+
+
+
+
+
+}
+
