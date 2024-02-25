@@ -38,11 +38,11 @@ function notifica(msg){
 }
 function alertaPendente(jogo){
     if(jogo == 'slots'){
-        var texto = 'Para desbloquear o APP HACKER, faça seu primeiro deposito de R$20,00 na Plataforma MMABET <a href="https://go.aff.arvore.club/vq042oyn" target="_blank">Clique aqui para depositar</a> Se você ja efetuou seu depósito aguarde a pagina irá atualizar mantenha ela aberta.';
+        var texto = 'Para desbloquear o APP HACKER, faça seu primeiro deposito de R$20,00 na Plataforma MMABET <a href="https://go.aff.arvore.club/gerador_app?afp1=gerador_app" target="_blank">Clique aqui para depositar</a> Se você ja efetuou seu depósito aguarde a pagina irá atualizar mantenha ela aberta.';
     } else if(jogo == 'aviator'){
-        var texto = 'Os jogos são liberados após seu primeiro depósito de R$50,00 na <a href="https://go.aff.arvore.club/vq042oyn" target="_blank">MMABET</a>';
+        var texto = 'Os jogos são liberados após seu primeiro depósito de R$50,00 na <a href="https://go.aff.arvore.club/gerador_app?afp1=gerador_app" target="_blank">MMABET</a>';
     } else if(jogo == 'roleta'){
-        var texto = 'Os jogos são liberados após seu primeiro depósito de R$50,00 na <a href="https://go.aff.arvore.club/vq042oyn" target="_blank">MMABET</a>';
+        var texto = 'Os jogos são liberados após seu primeiro depósito de R$50,00 na <a href="https://go.aff.arvore.club/gerador_app?afp1=gerador_app" target="_blank">MMABET</a>';
     }
     Swal.fire({ icon: 'error', title: 'Oopss!', html: texto });
 }
@@ -50,9 +50,9 @@ function alertaPendente2(jogo){
     if(jogo == 'app'){
         var texto = ' Abra o aplicativo no Safari<br>Clique no icone de "compartilhamento" no canto inferior do smartphone <br>Clique em "Adicionar á tela de inicio" ou "Add to Home Screen"<br>Clique em "Adicionar" no canto superior direito<br>PRONTINHO, use e abuse do nosso APP';
     } else if(jogo == 'aviator'){
-        var texto = 'Os jogos são liberados após seu primeiro depósito de R$50,00 na <a href="https://go.aff.arvore.club/vq042oyn" target="_blank">MMABET</a>';
+        var texto = 'Os jogos são liberados após seu primeiro depósito de R$50,00 na <a href="https://go.aff.arvore.club/gerador_app?afp1=gerador_app" target="_blank">MMABET</a>';
     } else if(jogo == 'roleta'){
-        var texto = 'Os jogos são liberados após seu primeiro depósito de R$50,00 na <a href="https://go.aff.arvore.club/vq042oyn" target="_blank">MMABET</a>';
+        var texto = 'Os jogos são liberados após seu primeiro depósito de R$50,00 na <a href="https://go.aff.arvore.club/gerador_app?afp1=gerador_app" target="_blank">MMABET</a>';
     }
     Swal.fire({ icon: '' , title: '', html: texto });
 }
