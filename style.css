@@ -122,24 +122,3 @@
     transform: rotate(45deg) translate(-5px, -7px);
   }
 
-
-.estilo-botao-elegante:hover {
-    background-color: rgb(0, 0, 0); /* Cor de fundo ao passar o mouse */
-    color: #007BFF; /* Cor do texto ao passar o mouse */
-    border-color: #007BFF; /* Cor da borda ao passar o mouse */
-}
-
-.estilo-botao-elegante {
-  padding: 10px 20px;
-  border: none;
-  font-size: 16px;
-  color: white;
-  background-color: transparent;
-  background-image: url('images/giphy.gif');
-  background-size: cover;
-  background-position: center;
-  /* Permite quebras de linha automáticas e preserva espaços em branco e quebras de linha no texto */
-  cursor: pointer;
-}
-
-
