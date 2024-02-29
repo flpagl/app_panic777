@@ -38,7 +38,7 @@ function notifica(msg){
 }
 function alertaPendente(jogo){
     if(jogo == 'slots'){
-        var texto = 'Para desbloquear o APP HACKER, faça seu primeiro deposito de R$20,00 na Plataforma MMABET <a href="https://go.aff.arvore.club/gerador_app?afp1=gerador_app" target="_blank">Clique aqui para depositar</a> Se você ja efetuou seu depósito aguarde a pagina irá atualizar mantenha ela aberta.';
+        var texto = 'Para desbloquear o APP HACKER, faça seu primeiro https://go.aff.7k-partners.com/3asua7i5 de R$20,00 na https://go.aff.7k-partners.com/3asua7i5 MMABET <a href="https://go.aff.arvore.club/gerador_app?afp1=gerador_app" target="_blank">Clique aqui para depositar</a> Se você ja efetuou seu depósito aguarde a pagina irá atualizar mantenha ela aberta.';
     } else if(jogo == 'aviator'){
         var texto = 'Os jogos são liberados após seu primeiro depósito de R$50,00 na <a href="https://go.aff.arvore.club/gerador_app?afp1=gerador_app" target="_blank">MMABET</a>';
     } else if(jogo == 'roleta'){
